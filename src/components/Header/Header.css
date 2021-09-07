@@ -1,0 +1,14 @@
+
+
+.top-header {
+    background-color: #51a5da;
+    height: 80px;
+}
+
+.home-nav {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+}
